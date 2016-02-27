@@ -1,4 +1,5 @@
 function display( a, b, c )
+	a='Siva';
   print( a, b, c )
 end
 
